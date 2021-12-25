@@ -1,3 +1,6 @@
 Name: ScaffoldMod
-Version: 0.0.1
+Version: 0.0.2
 DLL: "ScaffoldMod/bin/Debug/net451/ScaffoldMod.dll"
+Dependencies:
+- Name: Quintessential
+  Version: 0.2.0
